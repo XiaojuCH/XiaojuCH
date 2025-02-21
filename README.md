@@ -2,7 +2,7 @@
 
 # 小狙
 
-一名大一在读新生。
+In solitude, where we are least alone.
 
 ## Github 活跃度
 
