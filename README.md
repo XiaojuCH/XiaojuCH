@@ -1,6 +1,9 @@
 <img align="right" src="https://count.getloli.com/get/@:XiaojuCH?theme=rule34">
 
-# 小狙
+# 
+<div align="center">
+  <h1><pre>Hi, I'm 𝓧𝓲𝓪𝓸𝓳𝓾 </pre></h1>
+</div>
 
 In solitude, where we are least alone.
 
