@@ -1,19 +1,26 @@
+<div align="center">
+
 <img align="right" src="https://count.getloli.com/get/@:XiaojuCH?theme=rule34">
 
-# 
-<div align="center">
-<h1><pre>𝓧𝓲𝓪𝓸𝓳𝓾 </pre></h1>
-</div>
+# 𝓧𝓲𝓪𝓸𝓳𝓾
 
-𝓘𝓷 𝓼𝓸𝓵𝓲𝓽𝓾𝓭𝓮, 𝔀𝓱𝓮𝓻𝓮 𝔀𝓮 𝓪𝓻𝓮 𝓵𝓮𝓪𝓼𝓽 𝓪𝓵𝓸𝓷𝓮.
-
-[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D31681%26project%3D%26in=0)](https://codetime.dev)
+### 𝓘𝓷 𝓼𝓸𝓵𝓲𝓽𝓾𝓭𝓮, 𝔀𝓱𝓮𝓻𝓮 𝔀𝓮 𝓪𝓻𝓮 𝓵𝓮𝓪𝓼𝓽 𝓪𝓵𝓸𝓷𝓮.
 
 
 ##
 
-[![](https://activity-graph.herokuapp.com/graph?username=XiaojuCH&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![小狙's github stats](https://github-readme-stats.vercel.app/api?username=XiaojuCH&show_icons=true&theme=vue)
+<!-- <p align="center"> -->
+<!--   <img src="" width="100%" title="Intro Card" alt="Intro Card"> -->
+<!-- </p> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaojuCH&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaojuCH&layout=compact&langs_count=6)
+[![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D31681%26project%3D%26in=0)](https://codetime.dev)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XiaojuCH&show_icons=true&theme=radical&title_color=FFE652&text_color=71DFE7&hide_border=1&border_radius=10" alt="zhuozhiyongde">
+  </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaojuCH&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="zhuozhiyongde">
+</p>
+
