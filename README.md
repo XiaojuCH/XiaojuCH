@@ -1,5 +1,4 @@
 <div align="center">
-
 <img align="right" src="https://count.getloli.com/get/@:XiaojuCH?theme=rule34">
 
 # 𝓧𝓲𝓪𝓸𝓳𝓾
@@ -24,3 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaojuCH&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="zhuozhiyongde">
 </p>
 
+<div align="center">
+
+![white_album.png](https://s21.ax1x.com/2025/03/24/pEByVHg.jpg)
