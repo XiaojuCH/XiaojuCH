@@ -25,7 +25,7 @@
 
 <div align="center">
 
-![white_album.png](https://s21.ax1x.com/2025/03/24/pEByVHg.jpg)
+![white_album.png](https://cdnfronts.xiaojuch.com/WA.jpg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/output/github-contribution-grid-snake-dark.svg">
