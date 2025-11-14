@@ -36,6 +36,18 @@
 ## 📊 WakaTime Stats
 
 <!--START_SECTION:waka-->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@Xiaoju&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@Xiaoju&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Xiaoju&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+</picture>
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-137.9%20thousand%20lines%20of%20code-blue)
@@ -79,6 +91,12 @@ No Activity Tracked This Week
 
  Last Updated on 14/11/2025 12:39:49 UTC
 <!--END_SECTION:waka-->
+<table>
+  <tr>
+    <td><img src="https://wakatime.com/share/@Xiaoju/00e49046-9d99-4764-b0f4-8078615e4317.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@Xiaoju/2b346234-0a4c-47be-b0ee-88fd91f135e9.svg" width="500" alt="Wakatime"/></td>
+  </tr>
+</table>
 ## 📈 GitHub Metrics
 
 <table>
