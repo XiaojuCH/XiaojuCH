@@ -97,8 +97,7 @@ No Activity Tracked This Week
 
 
 
-## 📈 GitHub Metrics
-
+### 📈 GitHub Metrics
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/main/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
