@@ -36,5 +36,47 @@
 ## 📊 WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-137.9%20thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                50 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+🌆 Daytime                88 commits          ████████░░░░░░░░░░░░░░░░░   30.24 % 
+🌃 Evening                132 commits         ███████████░░░░░░░░░░░░░░   45.36 % 
+🌙 Night                  21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Tuesday                  36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Wednesday                53 commits          █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Thursday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Friday                   60 commits          █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+Saturday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Sunday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 14/11/2025 12:39:49 UTC
 <!--END_SECTION:waka-->
 
