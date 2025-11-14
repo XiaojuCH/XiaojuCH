@@ -5,37 +5,27 @@
 
 ### 𝓘𝓷 𝓼𝓸𝓵𝓲𝓽𝓾𝓭𝓮, 𝔀𝓱𝓮𝓻𝓮 𝔀𝓮 𝓪𝓻𝓮 𝓵𝓮𝓪𝓼𝓽 𝓪𝓵𝓸𝓷𝓮.
 
-
 ##
 
-<!-- <p align="center"> -->
-<!--   <img src="" width="100%" title="Intro Card" alt="Intro Card"> -->
-<!-- </p> -->
-
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D31681)](https://codetime.dev)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XiaojuCH&show_icons=true&theme=radical&title_color=FFE652&text_color=71DFE7&hide_border=1&border_radius=10" alt="XiaojuCH">
-  </p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaojuCH&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="zhuozhiyongde">
-</p>
 
 <div align="center">
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=XiaojuCH&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=XiaojuCH&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
+</picture>   
+  
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/XiaojuCH/XiaojuCH/github-metrics/base.svg" />   
+  </p>
+  
 ![WA](https://github.com/user-attachments/assets/927c5efd-6687-48f5-8ced-5a1aef5e2a5c)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/output/github-contribution-grid-snake.svg">
-</picture>
 
-## 📊 WakaTime Stats
 
 <!--START_SECTION:waka-->
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D31681)](https://codetime.dev)
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@Xiaoju&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
@@ -48,9 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Xiaoju&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-137.9%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -91,12 +78,25 @@ No Activity Tracked This Week
 
  Last Updated on 14/11/2025 12:39:49 UTC
 <!--END_SECTION:waka-->
+
+
+<div>
+<img src="https://github-profile-trophy.vercel.app/?username=XiaojuCH&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+</div>
+
 <table>
   <tr>
     <td><img src="https://wakatime.com/share/@Xiaoju/00e49046-9d99-4764-b0f4-8078615e4317.svg" width="500" alt="Wakatime"/></td>
     <td><img src="https://wakatime.com/share/@Xiaoju/2b346234-0a4c-47be-b0ee-88fd91f135e9.svg" width="500" alt="Wakatime"/></td>
   </tr>
 </table>
+
+<!-- <p align="center"> -->
+<!--   <img src="" width="100%" title="Intro Card" alt="Intro Card"> -->
+<!-- </p> -->
+
+
+
 ## 📈 GitHub Metrics
 
 <table>
@@ -117,4 +117,24 @@ No Activity Tracked This Week
     <td><img src="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/main/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
 </table>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/output/github-contribution-grid-snake.svg">
+</picture>
+
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=XiaojuCH&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=XiaojuCH&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
+</table>
+
+
 
