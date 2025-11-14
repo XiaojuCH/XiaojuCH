@@ -79,4 +79,24 @@ No Activity Tracked This Week
 
  Last Updated on 14/11/2025 12:39:49 UTC
 <!--END_SECTION:waka-->
+## 📈 GitHub Metrics
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/main/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/main/github-metrics/reactions.svg" alt="reactions" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/main/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/main/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/main/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/main/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/main/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/main/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+  </tr>
+</table>
 
