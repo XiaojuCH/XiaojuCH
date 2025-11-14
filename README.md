@@ -25,7 +25,7 @@
 
 <div align="center">
 
-![white_album.png](https://cdnfronts.xiaojuch.com/WA.jpg)
+![WA](https://github.com/user-attachments/assets/927c5efd-6687-48f5-8ced-5a1aef5e2a5c)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/output/github-contribution-grid-snake-dark.svg">
