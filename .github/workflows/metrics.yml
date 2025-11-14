@@ -1,0 +1,138 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  languages:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          user: XiaojuCH
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+          filename: github-metrics/languages.indepth.svg
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+
+  reactions:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          user: XiaojuCH
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+          filename: github-metrics/reactions.svg
+          plugin_reactions: yes
+          plugin_reactions_limit: 200
+          plugin_reactions_details: count, percentage
+
+  followup:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          user: XiaojuCH
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+          filename: github-metrics/followup.indepth.svg
+          plugin_followup: yes
+          plugin_followup_indepth: yes
+
+  repositories:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          user: XiaojuCH
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+          filename: github-metrics/repositories.pinned.svg
+          plugin_repositories: yes
+          plugin_repositories_featured: XiaojuCH/XiaojuCH
+
+  stars:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          user: XiaojuCH
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+          filename: github-metrics/stars.svg
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+  stargazers:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          user: XiaojuCH
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+          filename: github-metrics/stargazers.chartist.svg
+          plugin_stargazers: yes
+          plugin_stargazers_charts_type: chartist
+
+  calendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          user: XiaojuCH
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+          filename: github-metrics/calendar.full.svg
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+
+  isocalendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          user: XiaojuCH
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+          filename: github-metrics/isocalendar.fullyear.svg
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
