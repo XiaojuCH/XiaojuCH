@@ -112,10 +112,7 @@ Windows                  1 hr 28 mins        ███████████�
     <td><img src="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/main/github-metrics/stars.svg" alt="stars" /></td>
     <td><img src="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/main/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/main/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/main/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
+
 </table>
 
 
@@ -124,3 +121,16 @@ Windows                  1 hr 28 mins        ███████████�
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=XiaojuCH&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=XiaojuCH&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
+</table>
+
