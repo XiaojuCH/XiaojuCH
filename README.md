@@ -24,39 +24,28 @@
 
 
 <!--START_SECTION:waka-->
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D31681)](https://codetime.dev)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2031%20mins-blue)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@Xiaoju&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@Xiaoju&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Xiaoju&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-138.1%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                50 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-🌆 Daytime                88 commits          ████████░░░░░░░░░░░░░░░░░   30.24 % 
-🌃 Evening                132 commits         ███████████░░░░░░░░░░░░░░   45.36 % 
-🌙 Night                  21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+🌞 Morning                50 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+🌆 Daytime                88 commits          ███████░░░░░░░░░░░░░░░░░░   29.43 % 
+🌃 Evening                133 commits         ███████████░░░░░░░░░░░░░░   44.48 % 
+🌙 Night                  28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Tuesday                  36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Wednesday                53 commits          █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-Thursday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Friday                   60 commits          █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-Saturday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Sunday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Monday                   39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Tuesday                  36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Wednesday                53 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Thursday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Friday                   61 commits          █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+Saturday                 42 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Sunday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
 ```
 
 
@@ -66,17 +55,20 @@ Sunday                   29 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 44 mins             ████████████░░░░░░░░░░░░░   49.86 % 
+C++                      35 mins             ██████████░░░░░░░░░░░░░░░   39.75 % 
+HCL                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/11/2025 12:39:49 UTC
+ Last Updated on 15/11/2025 01:02:07 UTC
 <!--END_SECTION:waka-->
 
 
