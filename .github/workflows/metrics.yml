@@ -106,22 +106,6 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 4
 
-  stargazers:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          user: XiaojuCH
-          template: classic
-          base: ""
-          config_timezone: Asia/Shanghai
-          filename: github-metrics/stargazers.chartist.svg
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: chartist
-
   calendar:
     runs-on: ubuntu-latest
     permissions:
