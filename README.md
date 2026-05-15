@@ -24,53 +24,10 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-282%20hrs%2039%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.46%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-🌆 Daytime                168 commits         ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-🌃 Evening                266 commits         ████████████░░░░░░░░░░░░░   47.42 % 
-🌙 Night                  50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   84 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Tuesday                  64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Wednesday                82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Thursday                 117 commits         █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-Friday                   92 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Saturday                 70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Sunday                   52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TeX                      5 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   38.33 % 
-Python                   4 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.63 % 
-Other                    2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 44 mins      ████████████████████████░   95.02 % 
-Unknown Editor           40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-
-💻 Operating System: 
-Windows                  13 hrs 25 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 14/05/2026 02:31:55 UTC
+ Last Updated on 15/05/2026 02:31:13 UTC
 <!--END_SECTION:waka-->
 
 
