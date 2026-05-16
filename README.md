@@ -24,10 +24,53 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2040%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.46%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 15/05/2026 02:31:13 UTC
+```text
+🌞 Morning                77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+🌆 Daytime                170 commits         ████████░░░░░░░░░░░░░░░░░   30.09 % 
+🌃 Evening                268 commits         ████████████░░░░░░░░░░░░░   47.43 % 
+🌙 Night                  50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   84 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Tuesday                  64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Wednesday                82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Thursday                 119 commits         █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+Friday                   94 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Saturday                 70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Sunday                   52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    6 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   38.77 % 
+Python                   4 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   29.26 % 
+TeX                      3 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+Markdown                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+
+🔥 Editors: 
+VS Code                  16 hrs 4 mins       ████████████████████████░   95.67 % 
+Unknown Editor           43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+
+💻 Operating System: 
+Windows                  16 hrs 47 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 16/05/2026 02:13:16 UTC
 <!--END_SECTION:waka-->
 
 
