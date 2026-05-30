@@ -24,10 +24,53 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%204%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.47%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 29/05/2026 02:34:35 UTC
+```text
+🌞 Morning                77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+🌆 Daytime                170 commits         ███████░░░░░░░░░░░░░░░░░░   29.88 % 
+🌃 Evening                271 commits         ████████████░░░░░░░░░░░░░   47.63 % 
+🌙 Night                  51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   85 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Tuesday                  64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Wednesday                82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Thursday                 119 commits         █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+Friday                   94 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Saturday                 72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Sunday                   53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   11 hrs 6 mins       ███████████████░░░░░░░░░░   61.99 % 
+Markdown                 3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Other                    2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+CSV                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+
+🔥 Editors: 
+VS Code                  17 hrs 32 mins      ████████████████████████░   97.97 % 
+Claude Code              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+
+💻 Operating System: 
+Windows                  17 hrs 54 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 30/05/2026 02:28:48 UTC
 <!--END_SECTION:waka-->
 
 
