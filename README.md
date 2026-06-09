@@ -80,7 +80,7 @@ Windows                  17 hrs 33 mins      ███████████�
 
 
 <div>
-<img src="https://github-profile-trophyvercel-git-master-xiaoju-s-projects.vercel.app/?username=XiaojuCH&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+<img src="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/main/github-metrics/achievements.svg" alt="GitHub achievements" />
 </div>
 
 <table>

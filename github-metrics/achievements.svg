@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="220" viewBox="0 0 860 220" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Achievements</title>
+  <desc id="desc">Placeholder image until the GitHub Metrics workflow generates the achievements card.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f2937" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+  </defs>
+  <rect width="860" height="220" rx="20" fill="url(#bg)" />
+  <rect x="18" y="18" width="824" height="184" rx="16" fill="none" stroke="#374151" />
+  <text x="36" y="62" fill="#f9fafb" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">
+    GitHub Achievements
+  </text>
+  <text x="36" y="102" fill="#d1d5db" font-family="Segoe UI, Arial, sans-serif" font-size="18">
+    This placeholder will be replaced automatically by GitHub Actions.
+  </text>
+  <text x="36" y="134" fill="#9ca3af" font-family="Segoe UI, Arial, sans-serif" font-size="16">
+    Run the "GitHub Metrics" workflow once after pushing this change.
+  </text>
+  <g transform="translate(36 158)">
+    <circle cx="18" cy="18" r="18" fill="#f59e0b" />
+    <circle cx="78" cy="18" r="18" fill="#10b981" />
+    <circle cx="138" cy="18" r="18" fill="#60a5fa" />
+    <circle cx="198" cy="18" r="18" fill="#f472b6" />
+  </g>
+</svg>
