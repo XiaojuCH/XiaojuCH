@@ -80,7 +80,7 @@ Windows                  17 hrs 33 mins      ███████████�
 
 
 <div>
-<img src="https://github-profile-trophy.vercel.app/?username=XiaojuCH&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+<img src="https://github-profile-trophyvercel.vercel.app/?username=XiaojuCH&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 
 <table>
