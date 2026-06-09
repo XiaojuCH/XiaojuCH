@@ -25,8 +25,8 @@
 
 ## 🌟 Open Source Contributions
 
-[![nature-skills](https://img.shields.io/github/stars/Yuan1z0825/nature-skills?style=for-the-badge&logo=github&label=%E2%AD%90%20Yuan1z0825%2Fnature-skills&color=FFD700)](https://github.com/Yuan1z0825/nature-skills/pull/68)
-[![Auto-claude-code-research-in-sleep](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep?style=for-the-badge&logo=github&label=%E2%AD%90%20wanshuiyin%2FAuto-claude-code-research-in-sleep&color=FF8C00)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/pull/291)
+[![nature-skills](https://img.shields.io/badge/%E2%AD%90_18k-Yuan1z0825%2Fnature--skills-FFD700?style=for-the-badge&logo=github)](https://github.com/Yuan1z0825/nature-skills/pull/68)
+[![Auto-claude-code-research-in-sleep](https://img.shields.io/badge/%E2%AD%90_11.7k-wanshuiyin%2FAuto--claude--code--research--in--sleep-FF8C00?style=for-the-badge&logo=github)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/pull/291)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%2039%20mins-blue?style=flat)
