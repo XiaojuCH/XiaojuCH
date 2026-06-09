@@ -80,7 +80,7 @@ Windows                  17 hrs 33 mins      ███████████�
 
 
 <div>
-<img src="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/main/github-metrics/achievements.svg" alt="GitHub achievements" />
+<img src="https://raw.githubusercontent.com/XiaojuCH/XiaojuCH/main/github-metrics/base.svg" alt="GitHub profile summary" />
 </div>
 
 <table>
