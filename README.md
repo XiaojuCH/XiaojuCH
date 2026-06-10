@@ -7,7 +7,6 @@
 
 ##
 
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=XiaojuCH&theme=dark&hide_border=true" />
