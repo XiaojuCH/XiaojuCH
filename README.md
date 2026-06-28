@@ -41,6 +41,7 @@
 | In review | `lobehub/lobehub` (79.2k stars) | [#15820](https://github.com/lobehub/lobehub/pull/15820) | Infer custom embedding model types |
 | Approved | `Fission-AI/OpenSpec` (57.2k stars) | [#1186](https://github.com/Fission-AI/OpenSpec/pull/1186) | Support workspace planning homes and nested delta specs |
 
+<!-- profile-refresh: oss-highlights-2026-06-28 -->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-423%20hrs%2059%20mins-blue?style=flat)
 
