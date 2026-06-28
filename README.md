@@ -22,10 +22,24 @@
 
 
 
-## 🌟 Open Source Contributions
+## Open Source Contributions
 
-[![nature-skills](https://img.shields.io/badge/%E2%AD%90_18k-Yuan1z0825%2Fnature--skills-FFD700?style=for-the-badge&logo=github)](https://github.com/Yuan1z0825/nature-skills/pull/68)
-[![Auto-claude-code-research-in-sleep](https://img.shields.io/badge/%E2%AD%90_11.7k-wanshuiyin%2FAuto--claude--code--research--in--sleep-FF8C00?style=for-the-badge&logo=github)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/pull/291)
+<p align="center">
+  <a href="https://github.com/mem0ai/mem0/pull/5524"><img alt="mem0 merged PR" src="https://img.shields.io/badge/Merged-mem0ai%2Fmem0_%E2%AD%90_59.6k-2ea44f?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/ComposioHQ/composio/pull/3563"><img alt="Composio merged PR" src="https://img.shields.io/badge/Merged-ComposioHQ%2Fcomposio_%E2%AD%90_29.0k-2ea44f?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/assafelovic/gpt-researcher/pull/1802"><img alt="GPT Researcher merged PR" src="https://img.shields.io/badge/Merged-gpt--researcher_%E2%AD%90_27.9k-2ea44f?style=for-the-badge&logo=github" /></a>
+</p>
+
+| Status | Project | PR | Scope |
+| --- | --- | --- | --- |
+| Merged | `mem0ai/mem0` (59.6k stars) | [#5524](https://github.com/mem0ai/mem0/pull/5524) | Preserve empty Azure AI Search update values |
+| Merged | `ComposioHQ/composio` (29.0k stars) | [#3563](https://github.com/ComposioHQ/composio/pull/3563) | Bound Python file transfer requests with timeouts |
+| Merged | `assafelovic/gpt-researcher` (27.9k stars) | [#1802](https://github.com/assafelovic/gpt-researcher/pull/1802) | Keep oversized deep-research context from collapsing to empty |
+| Merged | `Yuan1z0825/nature-skills` (23.8k stars) | [#68](https://github.com/Yuan1z0825/nature-skills/pull/68) | Add direct Claude Code plugin install path |
+| Merged | `wanshuiyin/Auto-claude-code-research-in-sleep` (12.7k stars) | [#291](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/pull/291) | Improve Codex MCP large payload handling |
+| In review | `vllm-project/vllm` (84.6k stars) | [#45494](https://github.com/vllm-project/vllm/pull/45494) | Clarify NIXL KV transfer stats semantics |
+| In review | `lobehub/lobehub` (79.2k stars) | [#15820](https://github.com/lobehub/lobehub/pull/15820) | Infer custom embedding model types |
+| Approved | `Fission-AI/OpenSpec` (57.2k stars) | [#1186](https://github.com/Fission-AI/OpenSpec/pull/1186) | Support workspace planning homes and nested delta specs |
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-423%20hrs%2059%20mins-blue?style=flat)
