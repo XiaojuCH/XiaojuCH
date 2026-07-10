@@ -28,18 +28,18 @@
 
 <p align="center">
   <a href="https://github.com/mem0ai/mem0/pull/5524"><img alt="mem0ai/mem0 Merged PR" src="https://img.shields.io/static/v1?label=Merged&message=mem0ai%2Fmem0+%E2%AD%90+60.5k&color=2ea44f&style=for-the-badge&logo=github" /></a>
-  <a href="https://github.com/ComposioHQ/composio/pull/3563"><img alt="ComposioHQ/composio Merged PR" src="https://img.shields.io/static/v1?label=Merged&message=ComposioHQ%2Fcomposio+%E2%AD%90+29.1k&color=2ea44f&style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/ComposioHQ/composio/pull/3563"><img alt="ComposioHQ/composio Merged PR" src="https://img.shields.io/static/v1?label=Merged&message=ComposioHQ%2Fcomposio+%E2%AD%90+29.2k&color=2ea44f&style=for-the-badge&logo=github" /></a>
   <a href="https://github.com/assafelovic/gpt-researcher/pull/1802"><img alt="assafelovic/gpt-researcher Merged PR" src="https://img.shields.io/static/v1?label=Merged&message=assafelovic%2Fgpt-researcher+%E2%AD%90+28.2k&color=2ea44f&style=for-the-badge&logo=github" /></a>
 </p>
 
 | Status | Project | PR | Scope |
 | --- | --- | --- | --- |
 | Merged | `mem0ai/mem0` (60.5k stars) | [#5524](https://github.com/mem0ai/mem0/pull/5524) | Preserve empty Azure AI Search update values |
-| Merged | `ComposioHQ/composio` (29.1k stars) | [#3563](https://github.com/ComposioHQ/composio/pull/3563) | Bound Python file transfer requests with timeouts |
+| Merged | `ComposioHQ/composio` (29.2k stars) | [#3563](https://github.com/ComposioHQ/composio/pull/3563) | Bound Python file transfer requests with timeouts |
 | Merged | `assafelovic/gpt-researcher` (28.2k stars) | [#1802](https://github.com/assafelovic/gpt-researcher/pull/1802) | Keep oversized deep-research context from collapsing to empty |
-| Merged | `Yuan1z0825/nature-skills` (27.4k stars) | [#68](https://github.com/Yuan1z0825/nature-skills/pull/68) | Add direct Claude Code plugin install path |
+| Merged | `Yuan1z0825/nature-skills` (27.5k stars) | [#68](https://github.com/Yuan1z0825/nature-skills/pull/68) | Add direct Claude Code plugin install path |
 | Merged | `wanshuiyin/Auto-claude-code-research-in-sleep` (13.2k stars) | [#291](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/pull/291) | Improve Codex MCP large payload handling |
-| In review | `vllm-project/vllm` (85.8k stars) | [#45494](https://github.com/vllm-project/vllm/pull/45494) | Clarify NIXL KV transfer stats semantics |
+| In review | `vllm-project/vllm` (85.9k stars) | [#45494](https://github.com/vllm-project/vllm/pull/45494) | Clarify NIXL KV transfer stats semantics |
 | In review | `lobehub/lobehub` (79.7k stars) | [#15820](https://github.com/lobehub/lobehub/pull/15820) | Infer custom embedding model types |
 | Approved | `Fission-AI/OpenSpec` (59.6k stars) | [#1186](https://github.com/Fission-AI/OpenSpec/pull/1186) | Support workspace planning homes and nested delta specs |
 
