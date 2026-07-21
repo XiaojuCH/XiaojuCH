@@ -37,11 +37,11 @@
 | Merged | `mem0ai/mem0` (61.3k stars) | [#5524](https://github.com/mem0ai/mem0/pull/5524) | Preserve empty Azure AI Search update values |
 | Merged | `ComposioHQ/composio` (29.3k stars) | [#3563](https://github.com/ComposioHQ/composio/pull/3563) | Bound Python file transfer requests with timeouts |
 | Merged | `assafelovic/gpt-researcher` (28.5k stars) | [#1802](https://github.com/assafelovic/gpt-researcher/pull/1802) | Keep oversized deep-research context from collapsing to empty |
-| Merged | `Yuan1z0825/nature-skills` (30.0k stars) | [#68](https://github.com/Yuan1z0825/nature-skills/pull/68) | Add direct Claude Code plugin install path |
+| Merged | `Yuan1z0825/nature-skills` (30.1k stars) | [#68](https://github.com/Yuan1z0825/nature-skills/pull/68) | Add direct Claude Code plugin install path |
 | Merged | `wanshuiyin/Auto-claude-code-research-in-sleep` (13.6k stars) | [#291](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/pull/291) | Improve Codex MCP large payload handling |
-| In review | `vllm-project/vllm` (86.7k stars) | [#45494](https://github.com/vllm-project/vllm/pull/45494) | Clarify NIXL KV transfer stats semantics |
+| In review | `vllm-project/vllm` (86.8k stars) | [#45494](https://github.com/vllm-project/vllm/pull/45494) | Clarify NIXL KV transfer stats semantics |
 | In review | `lobehub/lobehub` (80.6k stars) | [#15820](https://github.com/lobehub/lobehub/pull/15820) | Infer custom embedding model types |
-| Approved | `Fission-AI/OpenSpec` (61.7k stars) | [#1186](https://github.com/Fission-AI/OpenSpec/pull/1186) | Support workspace planning homes and nested delta specs |
+| Approved | `Fission-AI/OpenSpec` (61.8k stars) | [#1186](https://github.com/Fission-AI/OpenSpec/pull/1186) | Support workspace planning homes and nested delta specs |
 
 <!-- OSS_CONTRIBUTIONS:END -->
 
