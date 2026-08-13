@@ -9,10 +9,13 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=XiaojuCH&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=XiaojuCH&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-</picture>   
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://streak-stats.demolab.com/?user=XiaojuCH&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://streak-stats.demolab.com/?user=XiaojuCH&theme=light&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=XiaojuCH&theme=dark&hide_border=true"
+       alt="GitHub Streak" />
+</picture>
   
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/XiaojuCH/XiaojuCH/github-metrics/base.svg" />   
@@ -172,7 +175,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=XiaojuCH&theme=xcode&bg_color=FF000000&hide_border=true" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=XiaojuCH&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=XiaojuCH&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
   </tr>
 </table>
