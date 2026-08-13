@@ -7,12 +7,22 @@
 
 ##
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=XiaojuCH&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=XiaojuCH&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XiaojuCH&theme=dark&hide_border=true" />
-</picture>  
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile/streak-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./profile/streak-light.svg"
+    />
+    <img
+      src="./profile/streak-light.svg"
+      alt="GitHub Streak"
+    />
+  </picture>
+</p>
   
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/XiaojuCH/XiaojuCH/github-metrics/base.svg" />   
