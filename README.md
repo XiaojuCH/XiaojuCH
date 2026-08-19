@@ -62,18 +62,18 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                199 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-🌆 Daytime                328 commits         ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-🌃 Evening                495 commits         ██████████░░░░░░░░░░░░░░░   39.54 % 
-🌙 Night                  230 commits         █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+🌞 Morning                201 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+🌆 Daytime                332 commits         ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+🌃 Evening                497 commits         ██████████░░░░░░░░░░░░░░░   39.70 % 
+🌙 Night                  222 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Tuesday                  199 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Wednesday                208 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Thursday                 290 commits         ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+Monday                   141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Tuesday                  201 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Wednesday                211 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Thursday                 282 commits         ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
 Friday                   165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
 Saturday                 138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
 Sunday                   114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
@@ -84,23 +84,22 @@ Sunday                   114 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 5 mins        ███████████████░░░░░░░░░░   61.52 % 
-Python                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Rust                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-CSS                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-TOML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Markdown                 2 hrs 13 mins       ████████████████░░░░░░░░░   65.19 % 
+Python                   59 mins             ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+Git Config               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+PowerShell               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 39 mins       █████████████████████░░░░   83.71 % 
-Codex Vscode             1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Claude Code              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Codex Vscode             1 hr 46 mins        █████████████░░░░░░░░░░░░   51.91 % 
+VS Code                  1 hr 38 mins        ████████████░░░░░░░░░░░░░   48.09 % 
 
 💻 Operating System: 
-Windows                  11 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  3 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/08/2026 01:23:52 UTC
+ Last Updated on 19/08/2026 01:23:16 UTC
 <!--END_SECTION:waka-->
 
 
