@@ -47,11 +47,11 @@
 | Merged | `mem0ai/mem0` (63.9k stars) | [#5524](https://github.com/mem0ai/mem0/pull/5524) | Preserve empty Azure AI Search update values |
 | Merged | `ComposioHQ/composio` (29.9k stars) | [#3563](https://github.com/ComposioHQ/composio/pull/3563) | Bound Python file transfer requests with timeouts |
 | Merged | `assafelovic/gpt-researcher` (29.1k stars) | [#1802](https://github.com/assafelovic/gpt-researcher/pull/1802) | Keep oversized deep-research context from collapsing to empty |
-| Merged | `Yuan1z0825/nature-skills` (36.7k stars) | [#68](https://github.com/Yuan1z0825/nature-skills/pull/68) | Add direct Claude Code plugin install path |
-| Merged | `wanshuiyin/Auto-claude-code-research-in-sleep` (15.0k stars) | [#291](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/pull/291) | Improve Codex MCP large payload handling |
-| In review | `vllm-project/vllm` (89.8k stars) | [#45494](https://github.com/vllm-project/vllm/pull/45494) | Clarify NIXL KV transfer stats semantics |
+| Merged | `Yuan1z0825/nature-skills` (36.8k stars) | [#68](https://github.com/Yuan1z0825/nature-skills/pull/68) | Add direct Claude Code plugin install path |
+| Merged | `wanshuiyin/Auto-claude-code-research-in-sleep` (15.1k stars) | [#291](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/pull/291) | Improve Codex MCP large payload handling |
+| In review | `vllm-project/vllm` (89.9k stars) | [#45494](https://github.com/vllm-project/vllm/pull/45494) | Clarify NIXL KV transfer stats semantics |
 | In review | `lobehub/lobehub` (82.0k stars) | [#15820](https://github.com/lobehub/lobehub/pull/15820) | Infer custom embedding model types |
-| Closed | `Fission-AI/OpenSpec` (66.0k stars) | [#1186](https://github.com/Fission-AI/OpenSpec/pull/1186) | Support workspace planning homes and nested delta specs |
+| Closed | `Fission-AI/OpenSpec` (66.1k stars) | [#1186](https://github.com/Fission-AI/OpenSpec/pull/1186) | Support workspace planning homes and nested delta specs |
 
 <!-- OSS_CONTRIBUTIONS:END -->
 
