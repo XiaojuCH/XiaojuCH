@@ -51,7 +51,7 @@
 | Merged | `wanshuiyin/Auto-claude-code-research-in-sleep` (16.9k stars) | [#291](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/pull/291) | Improve Codex MCP large payload handling |
 | In review | `vllm-project/vllm` (93.1k stars) | [#45494](https://github.com/vllm-project/vllm/pull/45494) | Clarify NIXL KV transfer stats semantics |
 | In review | `lobehub/lobehub` (83.0k stars) | [#15820](https://github.com/lobehub/lobehub/pull/15820) | Infer custom embedding model types |
-| Closed | `Fission-AI/OpenSpec` (70.9k stars) | [#1186](https://github.com/Fission-AI/OpenSpec/pull/1186) | Support workspace planning homes and nested delta specs |
+| Closed | `Fission-AI/OpenSpec` (71.0k stars) | [#1186](https://github.com/Fission-AI/OpenSpec/pull/1186) | Support workspace planning homes and nested delta specs |
 
 <!-- OSS_CONTRIBUTIONS:END -->
 
