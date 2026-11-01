@@ -62,21 +62,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                311 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-🌆 Daytime                615 commits         ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-🌃 Evening                789 commits         █████████░░░░░░░░░░░░░░░░   37.34 % 
-🌙 Night                  398 commits         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+🌞 Morning                313 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+🌆 Daytime                617 commits         ███████░░░░░░░░░░░░░░░░░░   29.08 % 
+🌃 Evening                789 commits         █████████░░░░░░░░░░░░░░░░   37.18 % 
+🌙 Night                  403 commits         █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Tuesday                  412 commits         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Wednesday                309 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Thursday                 497 commits         ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
-Friday                   251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Saturday                 216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Sunday                   174 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Monday                   254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Tuesday                  414 commits         █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Wednesday                309 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Thursday                 501 commits         ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+Friday                   251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Saturday                 218 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Sunday                   175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
 ```
 
 
@@ -84,22 +84,21 @@ Sunday                   174 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   12 hrs 54 mins      ██████████████████████░░░   86.60 % 
-Markdown                 1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-TeX                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-PowerShell               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Python                   7 hrs 46 mins       █████████████████████░░░░   84.39 % 
+Markdown                 1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+TeX                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+PowerShell               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 12 mins       ███████████████░░░░░░░░░░   61.79 % 
-Codex Vscode             5 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   38.21 % 
+VS Code                  9 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/10/2026 04:22:23 UTC
+ Last Updated on 01/11/2026 04:29:26 UTC
 <!--END_SECTION:waka-->
 
 
